@@ -1,0 +1,16 @@
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\bin\Debug\net6.0\ConsoleAppReadCsv.exe
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\bin\Debug\net6.0\Data\Ejemplo.csv
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\bin\Debug\net6.0\ConsoleAppReadCsv.deps.json
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\bin\Debug\net6.0\ConsoleAppReadCsv.runtimeconfig.json
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\bin\Debug\net6.0\ConsoleAppReadCsv.dll
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\bin\Debug\net6.0\ConsoleAppReadCsv.pdb
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\obj\Debug\net6.0\ConsoleAppReadCsv.csproj.AssemblyReference.cache
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\obj\Debug\net6.0\ConsoleAppReadCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\obj\Debug\net6.0\ConsoleAppReadCsv.AssemblyInfoInputs.cache
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\obj\Debug\net6.0\ConsoleAppReadCsv.AssemblyInfo.cs
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\obj\Debug\net6.0\ConsoleAppReadCsv.csproj.CoreCompileInputs.cache
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\obj\Debug\net6.0\ConsoleAppReadCsv.dll
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\obj\Debug\net6.0\refint\ConsoleAppReadCsv.dll
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\obj\Debug\net6.0\ConsoleAppReadCsv.pdb
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\obj\Debug\net6.0\ConsoleAppReadCsv.genruntimeconfig.cache
+C:\Users\D695839\Desktop\Nueva carpeta\CsvReaderTest\ConsoleAppReadCsv\obj\Debug\net6.0\ref\ConsoleAppReadCsv.dll
